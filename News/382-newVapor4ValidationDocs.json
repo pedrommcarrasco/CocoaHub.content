@@ -1,0 +1,12 @@
+{
+    "title": "New Vapor 4 Validation docs",
+    "description": "Vapor's Validation API helps you validate incoming request before using the Content API to decode data.",
+    "url": "https://docs.vapor.codes/4.0/validation/",
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "community"
+    ]
+}
