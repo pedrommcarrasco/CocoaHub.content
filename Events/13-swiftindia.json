@@ -2,9 +2,11 @@
     "name": "Swift India",
     "url": "https://swiftindia.in",
     "logo": "https://firebasestorage.googleapis.com/v0/b/pedrommcarrasco-cocoahub.appspot.com/o/events%2Fswiftindia.jpg?alt=media&token=7f3a9721-5cf0-430a-81b7-dfafc28f13f8",
-    "startDate": "2019-07-28T12:00:00+0000",
-    "endDate": "2019-07-28T23:00:00+0000",
+    "startDate": "",
+    "endDate": "",
     "country": "India",
     "city": "Bangalore",
-    "tags": []
+    "tags": [
+        "callForPapers"
+    ]
 }
