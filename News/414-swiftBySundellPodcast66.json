@@ -1,0 +1,13 @@
+{
+    
+    "title" : "Swift by Sundell Podcast 66: “Bridging the gap”",
+    "description" : "Listen to John Sundell and his special guest, Meng To, talk about SwifUI from a design perspective, structuring view code and components, the power of modifiers, and much more!",
+    "url" : "https://www.swiftbysundell.com/podcast/65/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}

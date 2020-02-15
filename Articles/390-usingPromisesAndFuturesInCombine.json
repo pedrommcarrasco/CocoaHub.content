@@ -1,0 +1,16 @@
+{
+    "edition": 36,
+    "title": "Using Promises and Futures in Combine",
+    "url": "https://www.donnywals.com/using-promises-and-futures-in-combine/",
+    "author": {
+        "name": "Donny Wals",
+        "url": "https://twitter.com/DonnyWals"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "language"
+    ]
+}

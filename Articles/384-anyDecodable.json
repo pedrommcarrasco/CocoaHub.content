@@ -1,0 +1,16 @@
+{
+    "edition": 36,
+    "title": "AnyDecodable",
+    "url": "https://pfandrade.me/blog/anydecodable/",
+    "author": {
+        "name": "Paulo Andrade",
+        "url": "https://twitter.com/pfandrade_"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}

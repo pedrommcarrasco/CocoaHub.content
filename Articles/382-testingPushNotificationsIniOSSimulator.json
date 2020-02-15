@@ -1,0 +1,16 @@
+{
+    "edition": 36,
+    "title": "Testing Remote Push Notification in iOS simulator",
+    "url": "https://sarunw.com/tips/testing-remote-push-notification-in-ios-simulator/",
+    "author": {
+        "name": "Sarun W.",
+        "url": "https://twitter.com/sarunw"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "debugging"
+    ]
+}

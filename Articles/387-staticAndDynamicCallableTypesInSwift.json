@@ -1,0 +1,16 @@
+{
+    "edition": 36,
+    "title": "Static and Dynamic Callable Types in Swift",
+    "url": "https://nshipster.com/callable/",
+    "author": {
+        "name": "Mattt",
+        "url": "https://twitter.com/mattt"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}

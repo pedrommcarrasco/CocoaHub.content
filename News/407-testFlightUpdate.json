@@ -1,0 +1,12 @@
+{
+    "title" : "TestFlight Update",
+    "description" : "“You can now submit apps built with Xcode 11.4 beta using the SDK for iOS 13.4, tvOS 13.4, and watchOS 6.2 for internal and external testing.“",
+    "url" : "https://developer.apple.com/news/releases/?id=0212020a",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}

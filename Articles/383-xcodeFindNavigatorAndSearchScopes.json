@@ -1,0 +1,17 @@
+{
+    "edition": 36,
+    "title": "Xcode's Find Navigator & Search Scopes",
+    "url": "https://patrickbalestra.com/blog/2020/02/09/xcode-find-navigator.html",
+    "author": {
+        "name": "Patrick Balestra",
+        "url": "https://twitter.com/BalestraPatrick"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "workflow",
+        "tooling"
+    ]
+}

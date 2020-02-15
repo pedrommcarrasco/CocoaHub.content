@@ -1,0 +1,12 @@
+{
+    "title" : "Library Evolution in Swift",
+    "description" : "Slava Pestov sheds some light on Swift's library evolution capabilities and how it works.",
+    "url" : "https://swift.org/blog/library-evolution/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}

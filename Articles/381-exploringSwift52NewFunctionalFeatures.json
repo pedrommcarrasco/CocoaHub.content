@@ -1,0 +1,16 @@
+{
+    "edition": 36,
+    "title": "Exploring Swift 5.2’s new functional features",
+    "url": "https://www.swiftbysundell.com/articles/exploring-swift-5-2s-new-functional-features/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "language"
+    ]
+}

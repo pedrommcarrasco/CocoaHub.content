@@ -1,0 +1,16 @@
+{
+    "edition": 36,
+    "title": "Optionals",
+    "url": "https://www.swiftbysundell.com/basics/optionals/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "language"
+    ]
+}
