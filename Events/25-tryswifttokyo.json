@@ -10,7 +10,7 @@
         "tickets",
         "callForPapers"
     ],
-    "isActive": true,
+    "isActive": false,
     "coordinates": {
         "latitute": 35.658006,
         "longitude": 139.708853

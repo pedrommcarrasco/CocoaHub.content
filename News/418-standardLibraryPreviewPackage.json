@@ -1,0 +1,13 @@
+{
+
+    "title" : "Standard Library Preview Package",
+    "description" : "Nate Cook announces a new open-source package that provides access to functionality that has been accepted into the Swift standard library through the Swift Evolution process, but has not yet shipped as part of an official Swift release.",
+    "url" : "https://swift.org/blog/preview-package/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}
