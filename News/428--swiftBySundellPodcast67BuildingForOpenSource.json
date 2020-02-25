@@ -1,0 +1,14 @@
+{
+  "url" : "https://www.swiftbysundell.com/podcast/67/",
+  "id" : 83,
+  "title" : "Swift by Sundell Podcast 67: Building for open source",
+  "date" : "2020-02-25T23:47:00Z",
+  "description" : "Ryan Nystrom returns to the show accompanied by designer Brian Lovin, to go behind the scenes of the new GitHub mobile app which the two have been building. Also, creating a design system, building custom controls, and more discussions on how developers and designers can work better together.",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "tags" : [
+    "podcast"
+  ]
+}
