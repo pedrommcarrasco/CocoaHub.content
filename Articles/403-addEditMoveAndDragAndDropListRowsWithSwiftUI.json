@@ -1,0 +1,16 @@
+{
+    "edition": 37,
+    "title": "Add, Edit, Move, and Drag and Drop List Rows with SwiftUI",
+    "url": "https://www.vadimbulavin.com/add-edit-move-and-drag-and-drop-in-swiftui-list/",
+    "author": {
+        "name": "Vadim Bulavin",
+        "url": "https://twitter.com/V8tr"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}

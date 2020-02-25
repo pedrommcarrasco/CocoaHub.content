@@ -1,0 +1,16 @@
+{
+    "edition": 37,
+    "title": "The Magic of Generating an Xcode Project",
+    "url": "https://developers.soundcloud.com/blog/tuist-project-generation",
+    "author": {
+        "name": "Andrea Cipriani",
+        "url": "https://twitter.com/AndreaCipriani"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "tooling"
+    ]
+}

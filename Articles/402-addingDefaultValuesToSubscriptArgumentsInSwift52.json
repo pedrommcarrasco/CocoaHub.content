@@ -1,0 +1,16 @@
+{
+    "edition": 37,
+    "title": "Adding default values to subscript arguments in Swift 5.2",
+    "url": "https://www.donnywals.com/adding-default-values-to-subscripts-in-swift-5-2/",
+    "author": {
+        "name": "Donny Wals",
+        "url": "https://twitter.com/DonnyWals"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "language"
+    ]
+}

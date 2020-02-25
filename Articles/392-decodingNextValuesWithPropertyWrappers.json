@@ -1,0 +1,16 @@
+{
+    "edition": 37,
+    "title": "Decoding nested values with property wrappers",
+    "url": "https://ilya.puchka.me/decoding-nested-values-with-property-wrappers/",
+    "author": {
+        "name": "Ilya Puchka",
+        "url": "https://twitter.com/ilyapuchka"
+    },
+    "curator": {
+        "name": "Vadim Bulavin",
+        "url": "https://twitter.com/V8tr"
+    },
+    "tags": [
+        "language"
+    ]
+}

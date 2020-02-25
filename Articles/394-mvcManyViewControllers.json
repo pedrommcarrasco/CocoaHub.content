@@ -1,0 +1,16 @@
+{
+    "edition": 37,
+    "title": "MVC: Many View Controllers",
+    "url": "https://rambo.codes/posts/2020-02-20-mvc-with-sugar",
+    "author": {
+        "name": "Gui Rambo",
+        "url": "https://twitter.com/_inside"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "architecture"
+    ]
+}

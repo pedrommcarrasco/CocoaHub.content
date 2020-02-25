@@ -1,0 +1,13 @@
+{
+    "name": "NSBrazil",
+    "url": "https://nsbrazil.com/en/",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/pedrommcarrasco-cocoahub.appspot.com/o/events%2Fnsbrazil.jpg?alt=media&token=69e7e5fd-dfcf-4f21-b2be-ec1e834c4a86",
+    "startDate": "2020-11-04T12:00:00+0000",
+    "endDate": "2020-11-06T23:00:00+0000",
+    "country": "Brazil",
+    "city": "Sao Paulo",
+    "tags": [],
+    "isActive": true,
+    "coordinates.latitude": -23.596549,
+    "coordinates.longitude": -46.686827
+}

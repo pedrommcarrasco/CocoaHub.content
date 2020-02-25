@@ -1,0 +1,16 @@
+{
+    "edition": 37,
+    "title": "How to create Activity Ring in SwiftUI",
+    "url": "https://sarunw.com/posts/how-to-create-activity-ring-in-swiftui/",
+    "author": {
+        "name": "Sarun W.",
+        "url": "https://twitter.com/sarunw"
+    },
+    "curator": {
+        "name": "Vadim Bulavin",
+        "url": "https://twitter.com/V8tr"
+    },
+    "tags": [
+        "ui"
+    ]
+}

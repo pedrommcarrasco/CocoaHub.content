@@ -1,0 +1,16 @@
+{
+    "edition": 37,
+    "title": "A Signal Strength Indicator",
+    "url": "https://www.objc.io/blog/2020/02/18/a-signal-strength-indicator/",
+    "author": {
+        "name": "Chris Eidhof",
+        "url": "https://twitter.com/chriseidhof"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}

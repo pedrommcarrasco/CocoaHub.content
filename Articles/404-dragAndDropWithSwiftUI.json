@@ -1,0 +1,16 @@
+{
+    "edition": 37,
+    "title": "Drag & Drop with SwiftUI",
+    "url": "https://swiftui-lab.com/drag-drop-with-swiftui",
+    "author": {
+        "name": "Javier",
+        "url": "https://twitter.com/SwiftUILab"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}

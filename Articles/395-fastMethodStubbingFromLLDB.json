@@ -1,0 +1,16 @@
+{
+    "edition": 37,
+    "title": "Fast Method Stubbing From LLDB",
+    "url": "https://bryce.co/lldb-method-stubbing/",
+    "author": {
+        "name": "Bryce Pauken",
+        "url": "https://twitter.com/brycepauken"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "debugging"
+    ]
+}

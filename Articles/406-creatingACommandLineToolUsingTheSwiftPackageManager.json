@@ -1,0 +1,16 @@
+{
+    "edition": 37,
+    "title": "Creating a command line tool using the Swift Package Manager",
+    "url": "https://www.avanderlee.com/swift/command-line-tool-package-manager/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "tooling"
+    ]
+}

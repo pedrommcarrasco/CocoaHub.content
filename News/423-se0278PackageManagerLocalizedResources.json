@@ -1,0 +1,12 @@
+{
+    "title" : "SE-0278: Package Manager Localized Resources",
+    "description" : "David Hart proposes adding the possibility of defining localized versions of resources in the Swift Package Manager manifest and have them automatically accessible at runtime using the same APIs. What do you think?",
+    "url" : "https://forums.swift.org/t/se-0278-package-manager-localized-resources/33950",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}

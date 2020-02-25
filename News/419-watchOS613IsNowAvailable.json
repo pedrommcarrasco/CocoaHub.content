@@ -1,0 +1,13 @@
+{
+
+    "title" : "watchOS 6.1.3 is now available",
+    "description" : "Apple also releases watchOS 5.3.5 and both include “improvements and bug fixes, including a fix for an issue that prevented the irregular heart rhythm notification from working as expected for Apple Watch owners in Iceland“.",
+    "url" : "https://developer.apple.com/news/releases/?id=02182020b",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}
