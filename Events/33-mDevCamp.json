@@ -1,0 +1,15 @@
+{
+    "name": "mDevCamp",
+    "url": "https://mdevcamp.eu/",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/pedrommcarrasco-cocoahub.appspot.com/o/events%2FmDevCamp.jpg?alt=media&token=3a770a99-24d6-4fac-9b07-07ade9b88def",
+    "startDate": "2020-05-29T09:00:00+0200",
+    "endDate": "2020-05-29T19:00:00+0200",
+    "country": "Czech Republic",
+    "city": "Prague",
+    "tags": ["tickets"],
+    "isActive": true,
+    "coordinates": {
+        "latitute": 50.0621,
+        "longitude": 14.4287
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "edition": 39,
+    "title": "Splitting up Swift types",
+    "url": "https://www.swiftbysundell.com/articles/splitting-up-swift-types/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "architecture"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "title" : "Swift now has an official argument parsing library",
+    "description" : "Released under the name ArgumentParser, this library provides straightforward, type-safe argument parsing for Swift.",
+    "url" : "https://swift.org/blog/argument-parser/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}

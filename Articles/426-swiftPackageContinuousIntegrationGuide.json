@@ -1,0 +1,16 @@
+{
+    "edition": 39,
+    "title": "Swift Package Continuous Integration Guide",
+    "url": "https://learningswift.brightdigit.com/swift-package-continuous-integration-guide/",
+    "author": {
+        "name": "Leo G Dion",
+        "url": "https://twitter.com/leogdion"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "tooling"
+    ]
+}

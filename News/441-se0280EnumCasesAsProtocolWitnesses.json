@@ -1,0 +1,13 @@
+{
+
+    "title" : "SE-0280: Enum cases as protocol witnesses",
+    "description" : "Suyash Srijan proposes lifting “an existing restriction, which is that enum cases cannot participate in protocol witness matching“. What do you think?",
+    "url" : "https://forums.swift.org/t/se-0280-enum-cases-as-protocol-witnesses/34257",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}

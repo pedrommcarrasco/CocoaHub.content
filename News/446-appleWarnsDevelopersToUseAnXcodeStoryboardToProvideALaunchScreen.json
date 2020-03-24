@@ -1,0 +1,12 @@
+{
+  "title" : "Apple reminds developers to build their apps with the iOS 13 SDK or later",
+  "description" : "Here's what you have to do until April 30, 2020: Build your app with iOS 13 SDK or later, use a storyboard for your app's launchscreen, support all iPhone screens (and iPad screens if available).",
+  "url" : "https://developer.apple.com/news/?id=03042020b",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

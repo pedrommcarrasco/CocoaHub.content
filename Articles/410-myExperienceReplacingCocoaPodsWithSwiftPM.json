@@ -1,0 +1,16 @@
+{
+    "edition": 38,
+    "title": "My experience replacing CocoaPods with SwiftPM",
+    "url": "https://www.jessesquires.com/blog/replacing-cocoapods-with-swiftpm/",
+    "author": {
+        "name": "Jesse Squires",
+        "url": "https://twitter.com/jesse_squires"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "tooling"
+    ]
+}

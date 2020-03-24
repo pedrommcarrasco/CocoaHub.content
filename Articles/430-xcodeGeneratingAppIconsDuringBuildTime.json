@@ -1,0 +1,16 @@
+{
+    "edition": 39,
+    "title": "Xcode: Generating app icons during build time",
+    "url": "http://moraleda.info/blog/2020/02/25/xcode-generating-app-icons-during-build-time.html",
+    "author": {
+        "name": "Guillermo Culkin",
+        "url": "https://twitter.com/gmoraleda_"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "tooling"
+    ]
+}

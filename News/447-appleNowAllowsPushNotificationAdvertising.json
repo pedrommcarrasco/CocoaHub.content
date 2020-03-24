@@ -1,0 +1,12 @@
+{
+  "title" : "Apple updates the App Store review guidelines",
+  "description" : "Among other changes, using push notifications for marketing purposes is now allowed on the App Store, as long as the user has provided consent.",
+  "url" : "https://developer.apple.com/app-store/review/guidelines/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

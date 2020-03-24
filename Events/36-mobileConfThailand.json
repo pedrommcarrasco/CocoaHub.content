@@ -1,0 +1,15 @@
+{
+    "name": "Mobile Conf Thailand",
+    "url": "https://mobileconfth.com",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/pedrommcarrasco-cocoahub.appspot.com/o/events%2FmobileConfThailand.jpg?alt=media&token=f992c9a9-a757-4f6c-80b6-8eb424a3c128",
+    "startDate": "2020-08-29T08:00:00+0000",
+    "endDate": "2020-08-29T20:00:00+0000",
+    "country": "Bangkok",
+    "city": "Thailand",
+    "tags": ["tickets"],
+    "isActive": true,
+    "coordinates": {
+        "latitute": 13.733673,
+        "longitude": 100.565819
+    }
+}

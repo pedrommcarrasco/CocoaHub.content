@@ -1,0 +1,16 @@
+{
+    "edition": 40,
+    "title": "How to create Neumorphic design in SwiftUI",
+    "url": "https://benediktlehnert.github.io",
+    "author": {
+        "name": "Benedikt Lehnert",
+        "url": "https://twitter.com/blehnert"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "workflow"
+    ]
+}

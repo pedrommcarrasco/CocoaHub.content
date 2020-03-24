@@ -7,8 +7,7 @@
     "country": "Spain",
     "city": "Barcelona",
     "tags": [
-        "tickets",
-        "callForPapers"
+        "tickets"
     ],
     "isActive": true,
     "coordinates": {

@@ -1,0 +1,16 @@
+{
+    "name": "iOSDevUK",
+    "url": "http://www.iosdevuk.com",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/pedrommcarrasco-cocoahub.appspot.com/o/events%2FiOSDevUK.jpg?alt=media&token=fe4641dc-2637-4182-87fa-5f25634d823c",
+    "startDate": "2020-09-06T12:00:00+0000",
+    "endDate": "2020-09-09T12:00:00+0000",
+    "country": "Aberystwyth",
+    "city": "United Kingdom",
+    "tags": ["tickets"],
+    "isActive": true,
+    "coordinates": {
+        "latitute": 52.416320,
+        "longitude": -4.065424
+    }
+}
+

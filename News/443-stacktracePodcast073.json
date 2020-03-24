@@ -1,0 +1,12 @@
+{
+  "title" : "Stacktrace Podcast 073: “…and that’s how I feel about SwiftUI”",
+  "description" : "John Sundell and Gui Rambo talk about websites hosted entirely on CDN, the flexbility of modern web development, replicating the Apple Watch Breath animation using SwiftUI, CLI for iOS apps, and more.",
+  "url" : "https://9to5mac.com/2020/03/04/stacktrace-podcast-073-and-thats-how-i-feel-about-swiftui/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "podcast"
+  ]
+}

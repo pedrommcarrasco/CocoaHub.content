@@ -1,0 +1,12 @@
+{
+    "title" : "Profile and debug asynchronous code with Timelane",
+    "description" : "Marin Todorov's Timelane is an open source instrument to profile and debug your asynchronous code using Combine or RxSwift without ever leaving Xcode.",
+    "url" : "http://timelane.tools",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "community"
+    ]
+}

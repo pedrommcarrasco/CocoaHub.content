@@ -1,0 +1,12 @@
+{
+  "title" : "SE-0277: Float16 has been accepted",
+  "description" : "This proposal by Stephen Canon had the goal of adding Float16 to the standard library.",
+  "url" : "https://forums.swift.org/t/accepted-se-0274-concise-magic-file-names/34115",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

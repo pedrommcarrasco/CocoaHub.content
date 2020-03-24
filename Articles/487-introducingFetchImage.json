@@ -1,0 +1,16 @@
+{
+    "edition": 41,
+    "title": "Introducing FetchImage",
+    "url": "https://kean.github.io/post/introducing-fetch-image",
+    "author": {
+        "name": "Alexander Grebenyuk",
+        "url": "https://twitter.com/a_grebenyuk"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}

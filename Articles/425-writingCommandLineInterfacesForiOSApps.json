@@ -1,0 +1,16 @@
+{
+    "edition": 39,
+    "title": "Writing command line interfaces for iOS apps",
+    "url": "https://rambo.codes/posts/2020-03-01-writing-command-line-interfaces-for-ios-apps",
+    "author": {
+        "name": "Gui Rambo",
+        "url": "https://twitter.com/_inside"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "tooling"
+    ]
+}

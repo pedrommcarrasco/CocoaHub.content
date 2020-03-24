@@ -1,0 +1,16 @@
+{
+    "edition": 41,
+    "title": "Creating animations with UIKit and Core Animation",
+    "url": "https://ordinarycoding.com/articles/creating-animations-with-uikit-ca/",
+    "author": {
+        "name": "Artur Rymarz",
+        "url": "https://twitter.com/artrmzx"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}

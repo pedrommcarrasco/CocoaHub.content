@@ -1,0 +1,16 @@
+{
+    "edition": 39,
+    "title": "iOS MVVM Tutorial: Refactoring from MVC",
+    "url": "https://www.raywenderlich.com/6733535-ios-mvvm-tutorial-refactoring-from-mvc#toc-anchor-005",
+    "author": {
+        "name": "Chuck Krutsinger",
+        "url": "https://twitter.com/CountermindLLC"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "architecture"
+    ]
+}

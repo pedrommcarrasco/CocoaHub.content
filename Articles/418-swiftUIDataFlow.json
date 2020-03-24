@@ -1,0 +1,16 @@
+{
+    "edition": 38,
+    "title": "SwiftUI Data Flow",
+    "url": "https://kean.github.io/post/swiftui-data-flow",
+    "author": {
+        "name": "Alexander Grebenyuk",
+        "url": "https://twitter.com/a_grebenyuk"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "other"
+    ]
+}

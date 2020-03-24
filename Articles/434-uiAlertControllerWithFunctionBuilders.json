@@ -1,0 +1,17 @@
+{
+    "edition": 40,
+    "title": "UIAlertController with Function Builders",
+    "url": "https://felginep.github.io/2020-03-10/uialertcontroller-function-builders",
+    "author": {
+        "name": "Pierre Felgines",
+        "url": "https://twitter.com/PierreFelgines"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui",
+        "language"
+    ]
+}

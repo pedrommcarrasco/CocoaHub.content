@@ -1,0 +1,13 @@
+{
+
+    "title" : "SE-0279: Multiple Trailing Closures",
+    "description" : "Pavel Yaskevich and Doug Gregor propose introducing syntactic sugar for providing multiple labeled trailing closures. What do you think?",
+    "url" : "https://forums.swift.org/t/se-0279-multiple-trailing-closures/34255",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}

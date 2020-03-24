@@ -1,0 +1,15 @@
+{
+    "name": "Swift TO",
+    "url": "https://www.swiftconf.to",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/pedrommcarrasco-cocoahub.appspot.com/o/events%2FswiftTO.jpg?alt=media&token=3d5d4e4e-dfe7-4767-b1ff-d6cca9396aca",
+    "startDate": "2020-08-13T12:00:00+0000",
+    "endDate": "2020-08-14T12:00:00+0000",
+    "country": "Canada",
+    "city": "Toronto",
+    "tags": ["tickets", "callForPapers"],
+    "isActive": true,
+    "coordinates": {
+        "latitute": 43.646652,
+        "longitude": -79.390481
+    }
+}

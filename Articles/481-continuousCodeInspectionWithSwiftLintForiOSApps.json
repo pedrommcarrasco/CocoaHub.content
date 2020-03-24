@@ -1,0 +1,16 @@
+{
+    "edition": 41,
+    "title": "Continuous code inspection with SwiftLint for iOS Apps",
+    "url": "https://blogs.halodoc.io/continuous-code-inspection-ios/",
+    "author": {
+        "name": "Keshav",
+        "url": "https://twitter.com/keshavgn"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "tooling"
+    ]
+}

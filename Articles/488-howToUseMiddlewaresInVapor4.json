@@ -1,0 +1,16 @@
+{
+    "edition": 41,
+    "title": "How to use middlewares in Vapor 4?",
+    "url": "https://theswiftdev.com/how-to-use-middlewares-in-vapor-4/",
+    "author": {
+        "name": "Tibor Bödecs",
+        "url": "https://twitter.com/tiborbodecs"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "server"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "edition": 38,
+    "title": "How to build neumorphic designs with SwiftUI",
+    "url": "https://www.hackingwithswift.com/articles/213/how-to-build-neumorphic-designs-with-swiftui",
+    "author": {
+        "name": "Paul Hudson",
+        "url": "https://twitter.com/twostraws"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "ui"
+    ]
+}

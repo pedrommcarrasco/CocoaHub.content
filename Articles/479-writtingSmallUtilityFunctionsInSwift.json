@@ -1,0 +1,17 @@
+{
+    "edition": 41,
+    "title": "Writing small utility functions in Swift",
+    "url": "https://swiftbysundell.com/articles/writing-small-utility-functions-in-swift/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "language",
+        "tipsAndTricks"
+    ]
+}

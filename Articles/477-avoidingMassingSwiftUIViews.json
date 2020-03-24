@@ -1,0 +1,17 @@
+{
+    "edition": 40,
+    "title": "Avoiding massive SwiftUI views",
+    "url": "https://www.swiftbysundell.com/articles/avoiding-massive-swiftui-views/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "ui",
+        "architecture"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "edition": 38,
+    "title": "Animated Transitions in ViewController - Part 1",
+    "url": "https://engineering.nodesagency.com/categories/ios/2020/02/27/View-Controller-Transitions",
+    "author": {
+        "name": "Ricardo Tokashiki",
+        "url": "https://twitter.com/RickTokashiki"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}

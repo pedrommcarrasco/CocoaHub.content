@@ -1,0 +1,16 @@
+{
+    "edition": 38,
+    "title": "CloudKit 101",
+    "url": "https://rambo.codes/posts/2020-02-25-cloudkit-101",
+    "author": {
+        "name": "Gui Rambo",
+        "url": "https://twitter.com/_inside"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "storage"
+    ]
+}

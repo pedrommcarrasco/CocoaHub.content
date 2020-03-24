@@ -1,0 +1,16 @@
+{
+    "edition": 39,
+    "title": "Reading and writing Property List files with Codable in Swift",
+    "url": "https://www.donnywals.com/reading-and-writing-property-list-files-in-swift/",
+    "author": {
+        "name": "Donny Wals",
+        "url": "https://twitter.com/DonnyWals"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "language"
+    ]
+}

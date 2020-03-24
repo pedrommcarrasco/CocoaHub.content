@@ -1,0 +1,16 @@
+{
+    "edition": 41,
+    "title": "How Collection Diffing works in Swift",
+    "url": "https://swiftrocks.com/how-collection-diffing-works-internally-in-swift.html",
+    "author": {
+        "name": "Bruno Rocha",
+        "url": "https://twitter.com/rockbruno_"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "other"
+    ]
+}

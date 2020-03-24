@@ -101,10 +101,10 @@ There are 16 possible tags for articles, being:
     "city": "Aveiro",
     "tags": [],
     "isActive": true,
-    "coordinates": [
+    "coordinates": {
         "latitute": 40.638370,
         "longitude": -8.645109
-    ]
+    }
 }
 ```
 

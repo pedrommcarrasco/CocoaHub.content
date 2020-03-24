@@ -1,0 +1,16 @@
+{
+    "edition": 38,
+    "title": "Architecting an analytics service for iOS apps",
+    "url": "https://andreaslydemann.com/architecting-an-analytics-service-for-ios-apps/",
+    "author": {
+        "name": "Andreas Lüdemann",
+        "url": "https://twitter.com/andreaslydemann"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "architecture", "other"
+    ]
+}

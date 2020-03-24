@@ -1,0 +1,16 @@
+{
+    "edition": 40,
+    "title": "Going deep with Decodable",
+    "url": "https://martiancraft.com/blog/2020/03/going-deep-with-decodable/",
+    "author": {
+        "name": "Richard Turton",
+        "url": "https://twitter.com/richturton"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}

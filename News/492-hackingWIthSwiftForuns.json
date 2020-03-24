@@ -1,0 +1,12 @@
+{
+    "title" : "Hacking with Swift Forums",
+    "description" : "Paul Hudson releases a new forum where everyone can talk about Swift, announce apps, find a job, and much more!",
+    "url" : "https://www.hackingwithswift.com/forums",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "community"
+    ]
+}

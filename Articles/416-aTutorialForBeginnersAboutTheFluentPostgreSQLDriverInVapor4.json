@@ -1,0 +1,16 @@
+{
+    "edition": 38,
+    "title": "A tutorial for beginners about the Fluent PostgreSQL driver in Vapor 4",
+    "url": "https://theswiftdev.com/a-tutorial-for-beginners-about-the-fluent-postgresql-driver-in-vapor-4/",
+    "author": {
+        "name": "Tibor Bödecs",
+        "url": "https://twitter.com/tiborbodecs"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "server"
+    ]
+}

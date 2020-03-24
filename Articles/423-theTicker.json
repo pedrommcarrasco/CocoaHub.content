@@ -1,0 +1,16 @@
+{
+    "edition": 39,
+    "title": "The Ticker",
+    "url": "https://blog.getmosaic.io/The-Ticker",
+    "author": {
+        "name": "Mosaic",
+        "url": "https://twitter.com/getmosaicio"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}

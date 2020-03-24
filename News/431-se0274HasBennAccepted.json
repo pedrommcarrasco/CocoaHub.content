@@ -1,0 +1,12 @@
+{
+  "title" : "SE-0274: Concise Magic File Names has been accepted",
+  "description" : "“During the second review, the format of the new #file value was discussed and will be locked down in a way that users can rely on. The core team expects future tooling to be created that will allow for easy processing of this value.“",
+  "url" : "https://forums.swift.org/t/accepted-se-0274-concise-magic-file-names/34115",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

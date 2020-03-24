@@ -1,0 +1,16 @@
+{
+    "edition": 38,
+    "title": "Authentication with signed requests in Alamofire 5",
+    "url": "https://www.avanderlee.com/swift/authentication-alamofire-request-adapter/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "other"
+    ]
+}

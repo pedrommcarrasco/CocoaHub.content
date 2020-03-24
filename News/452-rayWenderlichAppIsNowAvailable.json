@@ -1,0 +1,12 @@
+{
+    "title" : "Ray Wenderlich releases mobile application",
+    "description" : "raywenderlich.com is a great place for learning iOS and it now has a mobile application available exclusively for its subscribers.",
+    "url" : "https://store.raywenderlich.com/mobile",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "community"
+    ]
+}

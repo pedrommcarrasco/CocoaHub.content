@@ -1,0 +1,16 @@
+{
+    "edition": 39,
+    "title": "Mastering view controller transitions, part 3: Make them resizable",
+    "url": "https://danielgauthier.me/2020/03/03/vctransitions3.html",
+    "author": {
+        "name": "Dan Gauthier",
+        "url": "https://twitter.com/danielmgauthier"
+    },
+    "curator": {
+        "name": "Dan Gauthier",
+        "url": "https://twitter.com/danielmgauthier"
+    },
+    "tags": [
+        "ui"
+    ]
+}

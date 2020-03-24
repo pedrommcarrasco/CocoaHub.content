@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 68: “MVPs and prototypes”",
+    "description" : "Listen to John Sundell and his special guest, Leah Culver, talk about building MVPs and prototypes, iterating on and maintaing a code base, growing a development team, and much more!",
+    "url" : "https://www.swiftbysundell.com/podcast/68/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}

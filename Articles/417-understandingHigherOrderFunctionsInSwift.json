@@ -1,0 +1,16 @@
+{
+    "edition": 38,
+    "title": "Understanding Higher Order Functions in Swift",
+    "url": "https://www.appcoda.com/higher-order-functions-swift",
+    "author": {
+        "name": "Gab Theodoropoulos",
+        "url": "https://twitter.com/gabtheodor"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}

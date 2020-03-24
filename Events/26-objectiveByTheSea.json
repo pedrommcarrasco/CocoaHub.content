@@ -6,9 +6,7 @@
     "endDate": "2020-03-13T12:00:00+0000",
     "country": "United States of America",
     "city": "Hawaii",
-    "tags": [
-      "tickets"
-    ],
+    "tags": [],
     "isActive": true,
     "coordinates": {
         "latitute": 20.919902,

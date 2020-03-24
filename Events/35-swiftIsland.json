@@ -1,0 +1,15 @@
+{
+    "name": "Swift Island",
+    "url": "https://swiftisland.nl",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/pedrommcarrasco-cocoahub.appspot.com/o/events%2Fswiftisland.jpg?alt=media&token=6f30a327-1961-420f-ab06-2d4afff440a9",
+    "startDate": "2020-08-25T12:00:00+0000",
+    "endDate": "2020-08-27T12:00:00+0000",
+    "country": "Netherlands",
+    "city": "Texel",
+    "tags": [],
+    "isActive": true,
+    "coordinates": {
+        "latitute": 53.115216,
+        "longitude": 4.897135
+    }
+}

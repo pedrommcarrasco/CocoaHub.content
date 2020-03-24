@@ -1,0 +1,13 @@
+{
+
+    "title" : "Need help with Xcode Build Settings?",
+    "description" : "Mattt has just released a website documenting all available build settings for Xcode projects.",
+    "url" : "https://xcodebuildsettings.com",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "community"
+    ]
+}
