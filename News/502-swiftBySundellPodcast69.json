@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 69: “Swift Playgrounds”",
+    "description" : "Listen to John Sundell and his special guest, Holly Borla and Grace Kendall, talk about Swift Playgrounds app and Swift 5.2’s new diagnostics engine, and much more!",
+    "url" : "https://www.swiftbysundell.com/podcast/68/",
+    "curator" : {
+        "name" : "Irshad PC",
+        "url" : "https://twitter.com/_irshadpc"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
